@@ -2,7 +2,7 @@
 
 <p align="center"><img src="./assets/banner.svg" alt="AutoRun banner" width="100%"></p>
 
-<p align="center">A small automation-focused software experiment from my development workspace.</p>
+<p align="center">A preserved automation experiment from my earlier development workspace.</p>
 
 ## Overview
 
@@ -19,9 +19,9 @@ The repository represents an experimental stage of development rather than a pro
 
 ## 📌 Status
 
-**Experimental / learning project**
+**Experimental archive — not a featured portfolio project**
 
-The implementation may evolve as I continue improving the project and exploring better automation patterns.
+This repository is kept for development history. Production-oriented work is presented through the selected projects on my profile.
 
 ## Author
 
